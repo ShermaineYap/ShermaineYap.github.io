@@ -3,6 +3,7 @@
 export const posts = [
   {
     id: 'ibm',
+    label: "my IBM Bob-a-thon post",
     date: '1 Oct 2026',
     title: 'The CTO of IBM Malaysia gave my project a thumbs up. I couldn\'t sleep that night.',
     excerpt:
@@ -14,6 +15,7 @@ export const posts = [
   },
   {
     id: 'google',
+    label: "my Google Data Center Hackathon post",
     date: '24 Sep 2026',
     title: 'Most people apply to interview at Google. I got interviewed by Google after breaking into a server I built myself.',
     excerpt:
@@ -25,6 +27,7 @@ export const posts = [
   },
   {
     id: 'muba',
+    label: "my MUBA Web3 hackathon post",
     date: '10 Sep 2026',
     title: 'My first Web3 hackathon ended with two recognitions across different tracks.',
     excerpt:
@@ -36,6 +39,7 @@ export const posts = [
   },
   {
     id: 'sas',
+    label: "my SAS Malaysia visit post",
     date: '24 Jan 2026',
     title: 'Visited SAS Malaysia with the team. Then SAS asked to collaborate on our final year project.',
     excerpt:
@@ -47,6 +51,7 @@ export const posts = [
   },
   {
     id: 'apu',
+    label: "APU's post on our SAS win",
     date: '21 Feb 2026',
     repost: 'Asia Pacific University (APU)',
     title: 'APU: "A team of 10 APU students defied the odds to become Global Champions of the Industry Energy Track at the SAS Hackathon 2025."',
